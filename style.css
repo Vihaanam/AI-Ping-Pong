@@ -1,0 +1,69 @@
+body {
+    background-size: 80px;
+}
+.header {
+    text-align: left;
+    padding: 10px !important;
+    border-radius: 5px;
+    border: 2px white solid;
+}
+.header h2 {
+    display: inline;
+    font-family: 'Supermercado One', cursive;
+}
+.header button {
+    float: right;
+    border: 2px white solid;
+    border-style: groove;
+    font-family: 'Dancing Script', cursive;
+}
+.modal-content {
+    background-color: black;
+    color: white;
+}
+.close {
+    color: white !important;
+}
+.modal-header h3 {    
+    font-family: 'Dancing Script', cursive;
+}
+.modal-body {
+    text-align: left;
+    font-family: 'Inconsolata', monospace;
+}
+.modal-dialog {
+    width: 60%;
+    border: 2px white solid;
+    border-style: groove;
+}
+.start_button {    
+    border: 2px white solid;
+    border-style: groove;
+    font-family: 'Quintessential', cursive;
+}
+.header2 {
+    width: 100%;
+    padding: 10px !important;
+    border-radius: 5px;
+    border: 2px white solid;
+    margin-top: 10px;
+    font-family: 'Quintessential', cursive;
+    font-size: 20px !important;
+    text-align: center !important;
+}
+#video_div {    
+    border-radius: 5px !important;
+    border: 2px white solid !important;
+    width: fit-content;
+    height: 603px;
+}
+#footer {
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    font-size: 20px;
+    color: white !important;
+    border-radius: 5px;
+    border: 2px white solid;
+    background: rgba(128, 128, 128, 0.88);
+}
